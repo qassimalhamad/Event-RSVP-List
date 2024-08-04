@@ -1,0 +1,8 @@
+/* src/App.css */
+.attendance {
+  text-decoration: line-through;
+}
+
+.not-attendance {
+  color: red;
+}
